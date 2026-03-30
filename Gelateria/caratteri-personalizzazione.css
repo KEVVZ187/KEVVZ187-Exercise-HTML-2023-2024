@@ -1,0 +1,51 @@
+/*Messagio per il Prof: Prof, ho usato CSS per alcuni commandi e li ho imparato grazie ad alcuni video tutorial*/
+a{
+    text-decoration:none
+}
+
+.Colore {
+    color: rgb(238, 255, 85);
+}
+
+.Input {
+    font-weight: bold;
+}
+
+.Textarea {
+    font-weight: bold;
+}
+
+.button {
+    background-color: #004AAD; /* Colore di sfondo blu */
+    padding: 10px 20px; /* Padding interno al pulsante */
+    border: none; /* Nessun bordo */
+    border-radius: 25px; /* Bordo arrotondato */
+    cursor: pointer; /* Cambia il cursore al passaggio del mouse */
+    width: 352px; /* Larghezza del pulsante */
+    height: 45px; /* Altezza del pulsante */
+
+    /* Font */
+    color: white; /* Colore del testo bianco */
+    font-weight: bold;
+    font-size: 20px;
+    transition: 1s;
+}
+
+.button:hover {
+    background-color: #C0984D;
+    transition: 1s;
+}
+
+.A-Color{
+    color:#004AAD;
+}
+
+.Input-Height {
+    font-weight: bold;
+    height: 25px;
+}
+
+.Select {
+    width: 400px; /* Larghezza */
+    height: 25px; /* Altezza */
+}
